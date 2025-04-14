@@ -3,6 +3,13 @@ console.log("Hello World")
 
 // --------------------------------------------------
 
+// single line comment
+/* 
+Multi-line
+copmment 
+*/
+
+
 // a="Apple"
 // console.log(a)
 
@@ -72,5 +79,35 @@ console.log("Student status:", isStudent);
 
 // --------------------------------------------------
 
+//  __OPERATORS IN JS __   
+
+let x=20
+let y=5
+
+console.log(x+y)
+console.log(x-y)
+console.log(x*y)
+console.log(x/y)
+console.log(x**y)
+console.log(x%y)
+console.log(x++)
+console.log(x--)
+console.log(++x)
+
+// Comparision Operator-- used in  conditional things
+// > 
+// <
+// >=
+// <=
+// != Not equals to 
+// == equals to
+// === this compares to the datatype to 
+
+
+// Logical Operatos 
+// truths table : 
+//  && and
+// || or
+// ! not
 
 
