@@ -5,3 +5,10 @@
 - Operators
 
  
+# Day 2 Progress 
+**What I Learned**: 
+- conditional expressions
+- 
+- 
+- 
+
