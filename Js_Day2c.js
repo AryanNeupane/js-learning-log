@@ -54,9 +54,27 @@ let num1=[1,2,34,56,7,8,4]
 let num2=[14,223,34,156,47,58,45]
 let num3=[134,2523,34,5156,467,585,4545]
 
-let nn= num1.concat(num2,num3)
-console.log(nn)
-console.log(nn.sort())
+// let nn= num1.concat(num2,num3)
+// console.log(nn)
+// console.log(nn.sort())
+
+
+// -------------------------------------------------
+
+num1.forEach((ele)=>{
+    console.log(ele)
+})
+// _____________________________________________
+
+for(let n of num1){
+    console.log(n)
+}
+// _____________________________________________
+
+for(let n in num1){
+    console.log(num1[n])
+}
+// _____________________________________________
 
 
 
